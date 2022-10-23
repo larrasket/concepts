@@ -1,0 +1,3 @@
+#+title: Miscellaneous Repo
+This repo contains misc SQL notes, and [[file:tsqlfundamentals/][my solutions]] of Itzik Ben-Gan's [[https://www.amazon.com/Microsoft-Server-Fundamentals-Developer-Reference/dp/0735658145][MSSQLSERVER textbook]].
+Referring to [[https://salehmu.github.io/computer-science/sql.html][Introduction to The Relational Language]] might be useful.
